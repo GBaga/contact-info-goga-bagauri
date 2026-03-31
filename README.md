@@ -12,7 +12,7 @@
 
 **Preferred Interview Times:**
 - Weekdays: not available
-- Weekends: 10:00–20:00 UTC+3 (Tbilisi time: 16:00–18:00)
+- Weekends: 12:00–14:00 UTC (16:00–18:00 Tbilisi time)
 
 **Interview Language:** English
 
